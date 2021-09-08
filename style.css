@@ -1,0 +1,26 @@
+/* Selector {
+    Property: value;
+} */
+
+body{
+    background-image: url(Capture.png);
+}
+
+h1{
+    text-align: center;
+    border: 2px solid cornflowerblue;
+    cursor: pointer;
+    color: #B9914B;
+}
+
+/* class style */
+.lines {
+    border: 1px dashed rgb(91, 78, 129);
+    color: rgb(98, 184, 155);
+}
+
+/* div style */
+
+#div1{
+    background-color: rgb(70, 68, 52, 0.2);
+}
